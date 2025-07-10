@@ -38,7 +38,7 @@ function HowToBuy() {
           <div className=" p-2 rounded-xl bg-white border border-black shadow-[1.5px_3.5px_0px_0px_#000000]">
             <FaEthereum className=" size-5 text-black" />
           </div>
-          <h2 className=" text-xl text-white mt-1">Get Some ETH</h2>
+          <h2 className=" text-xl text-white mt-1">Get Some SOL</h2>
           <p className=" text-base text-center mt-1">
             Send some ETH on the base network to switch to Boncito. You can buy
             ETH through centralized exchanges.
