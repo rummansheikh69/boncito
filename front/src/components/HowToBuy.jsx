@@ -40,8 +40,8 @@ function HowToBuy() {
           </div>
           <h2 className=" text-xl text-white mt-1">Get Some SOL</h2>
           <p className=" text-base text-center mt-1">
-            Send some ETH on the base network to switch to Boncito. You can buy
-            ETH through centralized exchanges.
+            Send some SOL on the base network to switch to Boncito. You can buy
+            SOL through centralized exchanges.
           </p>
         </div>
         <div className="lg:-mr-64  bg-card p-5 flex flex-col items-center border-2 lg:w-96 mt-5 md:-mt-5 border-black shadow-[1.5px_3.5px_0px_0px_#000000] rounded-lg">
