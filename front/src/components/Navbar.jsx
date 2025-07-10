@@ -1,4 +1,3 @@
-import { FaTelegramPlane } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 function Navbar() {
@@ -21,11 +20,6 @@ function Navbar() {
             </div>
 
             <div className=" flex items-center gap-4">
-              <a href="">
-                <button className=" p-2 bg-buttonColor rounded-md border border-black shadow-[1.5px_3.5px_0px_0px_#000000]">
-                  <FaTelegramPlane className=" text-white size-6" />
-                </button>
-              </a>
               <a href="https://x.com/BoncitoSol">
                 <button className=" p-2 bg-buttonColor rounded-md border border-black shadow-[1.5px_3.5px_0px_0px_#000000]">
                   <FaXTwitter className=" text-white size-6" />
