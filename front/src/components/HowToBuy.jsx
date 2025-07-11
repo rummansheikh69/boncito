@@ -29,7 +29,7 @@ function HowToBuy() {
           </div>
           <h2 className=" text-xl text-white mt-1">Download Wallet</h2>
           <p className=" text-base text-center mt-1">
-            Download MetaMask or your preferred wallet from the App store. If
+            Download Phantom or your preferred wallet from the App store. If
             you're on a desktop, download the Google Chrome extension by
             visiting phantom.com
           </p>
