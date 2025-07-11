@@ -54,7 +54,7 @@ function About() {
                     <FaXTwitter className=" text-white size-6" />
                   </button>
                 </a>
-                <a href="https://letsbonk.fun/">
+                <a href="https://letsbonk.fun/token/9coMK7eeLM439K99WyCJm9xUiD5VxEKv4YnzTfk1bonk">
                   <button className=" p-2 bg-[#00B600] rounded-md border border-black shadow-[1.5px_3.5px_0px_0px_#000000] text-white">
                     BONK
                   </button>
