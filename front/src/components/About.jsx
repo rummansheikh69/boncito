@@ -8,10 +8,10 @@ function About() {
         <div className=" relative truncate text-center lg:w-3/4 px-4 py-3 rounded-full bg-white shadow-[1.5px_3.5px_0px_0px_#000000] border border-black">
           <a href="https://pump.fun/coin/FCgwRn7aoBxJLeyHaZqFZ6QvYPBrjsWDb1PWg7zApump">
             <p className=" truncate w-4/5 md:w-full">
-              CA: FCgwRn7aoBxJLeyHaZqFZ6QvYPBrjsWDb1PWg7zApump
+              CA: 9coMK7eeLM439K99WyCJm9xUiD5VxEKv4YnzTfk1bonk
             </p>
           </a>
-          <a href="https://pump.fun/coin/FCgwRn7aoBxJLeyHaZqFZ6QvYPBrjsWDb1PWg7zApump">
+          <a href="https://letsbonk.fun/token/9coMK7eeLM439K99WyCJm9xUiD5VxEKv4YnzTfk1bonk">
             <div className="absolute right-4 top-1/2 -translate-y-1/2 border border-black rounded-full p-1.5 shadow-[1.5px_3.5px_0px_0px_#000000]">
               <MdOutlineArrowOutward className=" " />
             </div>
