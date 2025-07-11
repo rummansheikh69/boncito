@@ -25,9 +25,9 @@ function Navbar() {
                   <FaXTwitter className=" text-white size-6" />
                 </button>
               </a>
-              <a href="">
+              <a href="https://letsbonk.fun/">
                 <button className=" p-2 bg-buttonColor rounded-md border border-black shadow-[1.5px_3.5px_0px_0px_#000000] text-white">
-                  PUMP
+                  BONK
                 </button>
               </a>
             </div>
