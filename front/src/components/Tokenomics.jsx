@@ -17,7 +17,7 @@ function Tokenomics() {
           <div className=" w-max py-3 mt-3 px-8 rounded-full flex items-center gap-2 bg-white shadow-[1.5px_3.5px_0px_0px_#000000] border border-black">
             <a href="">
               <h2 className=" text-2xl md:text-3xl lg:text-4xl">
-                LAUNCHED ON PUMP FUN
+                LAUNCHED ON BONK
               </h2>
             </a>
           </div>
